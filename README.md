@@ -3,6 +3,10 @@
 ### Tecnologias utilizadas: 
 <img src="https://github.com/AlbertoFAraujo/ML_Marketing_digital/assets/105552990/d30403c2-76d4-4504-b6a5-894e3ab44fce" alt="image" width="50%">
 
+- **RStudio:** Ambiente integrado para desenvolvimento em R, oferecendo ferramentas para escrita, execução e depuração de código.
+- **Ggplot2:** Pacote para criação de visualizações de dados elegantes e flexíveis em R.
+- **Tidyverse:** Conjunto de pacotes para manipulação de dados, visualização e modelagem em R, seguindo o paradigma "tidy data".
+- **Corrplot:** Pacote em R que fornece ferramentas para visualização de matrizes de correlação. Permite criar gráficos de correlação de maneira simples e intuitiva, utilizando diferentes métodos de visualização, como círculos, elipses, quadrados e outras formas, facilitando a análise e interpretação das correlações entre variáveis.
 <hr>
 
 ### Problema de Negócio:
@@ -13,7 +17,7 @@ Seu chefe convida você para uma reunião e informa que a área de Marketing Dig
 
 #### Objetivo:
 
-Responder a pergunta de negócio sobre uma nova campanha planejada pelo Marketing.
+Criar um modelo de Regressão Linear Múltipla para predizer o número de usuários convertidos em uma campanha de Marketing Digital.
 
 1. Qual o número provável de usuários convertidos para as novas entradas de dados? (Regressão)
 
