@@ -1,4 +1,4 @@
-![image](https://github.com/AlbertoFAraujo/ML_Marketing_digital/assets/105552990/3cf1274f-e434-4ab2-b01b-c02751e382a4)
+![image](https://github.com/user-attachments/assets/e48e2d40-d05b-4a71-99dc-1e61f1a4fcef)
 
 ### Tecnologias utilizadas: 
 <img src="https://github.com/AlbertoFAraujo/ML_Marketing_digital/assets/105552990/d30403c2-76d4-4504-b6a5-894e3ab44fce" alt="image" width="50%">
